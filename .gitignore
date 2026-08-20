@@ -1,0 +1,17 @@
+# Datos personales / sensibles - NUNCA subir
+credentials.py
+config.py
+screenshots/
+debug_login_page.html
+debug_keycloak_page.html
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+ 
+# Sistema operativo
+.DS_Store
+Thumbs.db

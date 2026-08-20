@@ -1,0 +1,10 @@
+psutil
+pyautogui
+pyscreeze>=0.1.30
+Pillow>=10.4.0
+opencv-python
+colorama
+requests
+tzdata
+pygetwindow
+ 
